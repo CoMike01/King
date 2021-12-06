@@ -1,0 +1,69 @@
+div#Content{
+    background-color: rgb(0, 0, 0);
+    width: 1900px;
+    height: 2045px;
+    margin: -8px;
+}
+div#logotipo{
+    background-color: rgb(0, 0, 0);
+    width: 1900px;
+    height: 234;
+    margin:0px;
+}
+div#logo {
+    background-color: rgb(0, 0, 0);
+    width: 1800px;
+    height: 234px;
+    margin: 0px 0px 0px 0px;
+    display:flex;
+    flex-wrap: wrap;
+}
+div#menus{
+background-color: rgb(0, 0, 0);
+width: 1100px;
+height: 70px;
+margin: 0px 0px 0px 390px;
+display:flex;
+flex-wrap: wrap;
+list-style-type: none;
+}
+div#Frase00{
+    background-color: rgb(0, 0, 0);
+    width: 1900px;
+    height: 440px;
+    margin: 0px;
+}
+div#Promoo1{
+    background-color: rgb(0, 0, 0);
+    width: 1500px;
+    height: 1100px;
+    margin: 10px 10px 0px 200px;
+}
+div#Pie-de-pagina{
+    background-color:rgb(228, 30, 30);
+    width: 1900px;
+    height: 193px;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+div#Info-alumno{
+background-color: rgb(124, 4, 4);
+width: 950px;
+height: 183px;
+margin: 10px 0px 0px 0px;
+}
+
+div#Derechos{
+    background-color: rgb(124, 4, 4);
+    width: 950px;
+    height: 183px;
+    margin: -183px 0px 0px 950px;
+}
+div#Derecho1{
+    background-color: rgb(124, 4, 4);
+    width: 400px;
+    height: 163;
+    margin: 63px 0px 0px 500px;
+
+}
